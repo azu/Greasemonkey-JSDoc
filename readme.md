@@ -18,6 +18,11 @@ You can use completion file for editor(like WebStorm)
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## reference
+
+* [Greasemonkey Manual:API - GreaseSpot Wiki](http://wiki.greasespot.net/Greasemonkey_Manual:API "Greasemonkey Manual:API - GreaseSpot Wiki")
+* [Manual: API · scriptish/scriptish Wiki](https://github.com/scriptish/scriptish/wiki/Manual%3A-API "Manual: API · scriptish/scriptish Wiki")
+
 ## License
 
 MIT
