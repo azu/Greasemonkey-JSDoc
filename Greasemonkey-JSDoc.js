@@ -133,7 +133,6 @@ function GM_xpath(object){
  * @param {String} [title]
  * @param {String} [icon]
  * @param {Function} [callback]
- * @constructor
  */
 function GM_notification(msg, title, icon, callback){
 }
@@ -145,8 +144,6 @@ function GM_notification(msg, title, icon, callback){
 
  text: Only the data string will be copied to the clipboard. This is the default data type for GM_setClipboard.
  html: Both the text and HTML representation of the data will be copied to the clipboard. See the example below.
-
- * @constructor
  */
 function GM_setClipboard(data,type){
 

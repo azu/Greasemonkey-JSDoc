@@ -21,6 +21,7 @@ You can use completion file for editor(like WebStorm)
 ## reference
 
 * [Greasemonkey Manual:API - GreaseSpot Wiki](http://wiki.greasespot.net/Greasemonkey_Manual:API "Greasemonkey Manual:API - GreaseSpot Wiki")
+
 * [Manual: API · scriptish/scriptish Wiki](https://github.com/scriptish/scriptish/wiki/Manual%3A-API "Manual: API · scriptish/scriptish Wiki")
 
 ## License
